@@ -23,7 +23,7 @@ For details : http://nasir.wordpress.com/2009/10/28/ruby-gem-for-finance-data
 == USAGE:
 
 	require 'rubygems'
-	require 'yahoo_stock'
+	require 'nas-yahoo_stock'
 
 * Initialize quote object:
 
