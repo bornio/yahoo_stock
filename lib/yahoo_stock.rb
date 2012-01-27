@@ -17,5 +17,5 @@ require 'yahoo_stock/result/hash_format.rb'
 require 'yahoo_stock/result/xml_format.rb'
 
 module YahooStock
-  VERSION = '1.0.3'
+  VERSION = '1.0.8'
 end
